@@ -1,0 +1,10 @@
+description "Upp wrappers for Replicate AI APIs\377";
+
+uses
+	Core,
+	ApiCommon;
+
+file
+	ReplicateAI.h,
+	ReplicateAI.cpp;
+

@@ -1,0 +1,10 @@
+description "Simple Upp wrapper for the OpenAI APIs\377";
+
+uses
+	Core,
+	ApiCommon;
+
+file
+	OpenAI.h,
+	OpenAI.cpp;
+
